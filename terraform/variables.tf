@@ -3,7 +3,7 @@ variable "instance_name" {
 }
 
 variable "key_name" {
-  default = "cloudaseem"                  # Names of key in aws
+  default = "Bingo_asseem_key"                  # Names of key in aws
 }
 
 
